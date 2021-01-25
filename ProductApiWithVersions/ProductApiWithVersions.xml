@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProductApiWithVersions</name>
+    </assembly>
+    <members>
+        <member name="M:ProductApiWithVersions.Controllers.ProductController.GetAllProducts">
+            <summary>
+            Zwraca listę produktów
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProductApiWithVersions.Controllers.ProductController.GetAllProductsV2">
+            <summary>
+            Zwraca listę produktów
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
